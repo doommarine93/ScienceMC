@@ -1,0 +1,16 @@
+[
+{
+"modid": "sciencemc",
+"name": "Science MC",
+"description": "Science! This mod brings you a range of different things from dark matter to making chemicals.",
+"version": "1.0.0 Alpha",
+"mcversion": "$mcversion",
+"url": "",
+"updateUrl": "",
+"authors": ["Church"],
+"credits": "Church, Seth, and Seth",
+"logoFile": "",
+"screenshots": [],
+"dependencies": [mod_MinecraftForge]
+}
+]
